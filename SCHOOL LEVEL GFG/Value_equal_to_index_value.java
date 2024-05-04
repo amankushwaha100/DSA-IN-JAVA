@@ -6,6 +6,7 @@ N = 5
 Arr[] = {15, 2, 45, 12, 7}
 Output: 2
 Explanation: Only Arr[2] = 2 exists here. */
+import java.util.ArrayList;
 
 public class Value_equal_to_index_value {
       ArrayList<Integer> valueEqualToIndex(int arr[], int n) {
